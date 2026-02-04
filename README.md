@@ -106,7 +106,7 @@ CNN-based handwriting recognition system with data augmentation and model calibr
 
 ## 🧪 Research & Engineering Experience
 
-### Graduate Research Assistant & Software Engineer  
+### Graduate Research Assistant & Software Engineer Intern 
 **George Washington University**
 
 - Built real-time ML system processing **200,000+ sensor readings**
@@ -127,7 +127,7 @@ CNN-based handwriting recognition system with data augmentation and model calibr
 
 ---
 
-### Enterprise Systems Engineer  
+### Programmer analyst 
 **Cognizant Technology Solutions**
 
 - Deployed **100+ enterprise applications**
