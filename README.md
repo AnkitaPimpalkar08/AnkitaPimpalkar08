@@ -1,181 +1,254 @@
 <div align="center">
 
-# Ankita Vilas Pimpalkar  
-### Software Engineer • Data Scientist • ML/AI Engineer  
+# ✨ Ankita Vilas Pimpalkar
+### Software Engineer • Data Scientist • ML / AI Engineer
 
-Washington, D.C.  
-📧 ankitavilas.pimpalkar@gwu.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/) • 🌐 [Portfolio](https://ankitavilaspimpalkarportfolio.netlify.app/) • 💻 [GitHub](https://github.com/AnkitaPimpalkar08)
+<p>
+  <b>Washington, D.C.</b><br>
+  <a href="mailto:ankitavilas.pimpalkar@gwu.edu">ankitavilas.pimpalkar@gwu.edu</a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ankitavilaspimpalkarportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnkitaPimpalkar08">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Applied-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Development-0f766e?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Engineering-6b21a8?style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 Engineering Profile
+## 👩‍💻 About Me
 
 I build **intelligent, scalable systems** at the intersection of:
 
-> **Software Engineering × Data Engineering × Machine Learning**
+<div align="center">
 
-My work spans **real-time ML systems, cloud-native applications, and full-stack platforms**, with experience across academic research, startups, and enterprise environments.
+### **Software Engineering × Data Engineering × Machine Learning**
 
-I specialize in:
-- Designing **end-to-end ML pipelines**
-- Building **real-time data systems**
-- Deploying **production-grade software**
-- Optimizing performance on **resource-constrained systems**
+</div>
 
-Currently pursuing an **M.S. in Computer Science at George Washington University**, while working as a **Graduate Research Assistant & Software Engineer**.
+My work spans **real-time ML systems, cloud-native applications, full-stack platforms, and research-driven engineering**, with experience across **academic labs, startups, and enterprise environments**.
+
+I’m currently pursuing an **M.S. in Computer Science at George Washington University**, where I work as a **Graduate Research Assistant and Software Engineer Intern**.
 
 ---
 
-## 🧠 What I Work On
+## 🚀 What I Bring
 
-### Systems I Enjoy Building
-- Real-time ML systems (streaming + inference)
-- Full-stack applications (APIs + dashboards)
-- Data pipelines (ETL, validation, monitoring)
-- Cloud-native services
-- Interpretable ML systems
+<table>
+<tr>
+<td width="50%">
 
-### Domains
+### ⚙️ Engineering Focus
+- End-to-end ML pipelines
+- Real-time data systems
+- Full-stack application development
+- Edge / IoT ML deployment
+- Performance optimization
+
+</td>
+<td width="50%">
+
+### 🧠 Areas of Interest
 - Applied AI / ML
 - Data engineering
 - Software systems
-- IoT & edge ML
 - Human-centered AI
+- Interpretable and reliable ML
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Featured Projects
 
-### 🔹 Real-Time Anomaly Detection (IoT ML System)
-**Python • MQTT • Isolation Forest • Streamlit**  
-Production-grade system for detecting anomalies in live sensor streams.  
-Processes **200,000+ real-world data points** with temporal modeling and edge deployment.
+<table>
+<tr>
+<td width="50%">
 
-> End-to-end: data collection → feature engineering → ML inference → dashboard.
+### 🔹 Real-Time Anomaly Detection
+**Python • MQTT • Isolation Forest • Streamlit**
 
----
+Production-grade system for detecting anomalies in live sensor streams.
+
+- Processed **200,000+ real-world data points**
+- Built full pipeline from **data collection → feature engineering → inference → dashboard**
+- Optimized for **edge deployment** and operational monitoring
+
+</td>
+<td width="50%">
 
 ### 🔹 EchoSense — Environmental Sound Classification
-**TensorFlow • CNN • Modal • Next.js**  
-Deep learning pipeline for ESC-50 dataset with cloud GPU training and deployed inference API.
+**TensorFlow • CNN • Modal • Next.js**
 
-> Focus: audio ML, cloud training, model deployment.
+Deep learning pipeline built on the ESC-50 dataset.
 
----
+- Cloud GPU training and deployed inference API
+- Focused on **audio ML**, **deployment**, and **model serving**
+- Combined experimentation with production-style delivery
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🔹 GreenShoes — Full-Stack E-Commerce Platform
-**React • Node.js • PostgreSQL • REST APIs**  
-Eco-commerce platform with authentication, cart system, filtering, and inventory management.
+**React • Node.js • PostgreSQL • REST APIs**
 
-> Focus: production-grade full-stack engineering.
+Eco-commerce platform with a modern full-stack architecture.
 
----
+- Authentication and cart workflows
+- Product filtering and inventory management
+- Built as a **production-oriented web platform**
+
+</td>
+<td width="50%">
 
 ### 🔹 Handwritten Character Recognition
-**TensorFlow • OpenCV • CNN**  
-CNN-based handwriting recognition system with data augmentation and model calibration.
+**TensorFlow • OpenCV • CNN**
 
-> Improved accuracy by **25%**, achieved **70% overall accuracy** on small datasets.
+CNN-based handwriting recognition system with augmentation and calibration.
+
+- Improved accuracy by **25%**
+- Achieved **70% overall accuracy**
+- Explored failure cases and confidence behavior on small datasets
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`Python` `Java` `JavaScript` `SQL` `PHP` `PowerShell`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" />
+</p>
 
 ### ML / Data
-`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV`  
-`Pandas` `NumPy` `Matplotlib`
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-### Web / Frameworks
-`React` `Vue.js` `Node.js` `REST APIs` `CodeIgniter`
+`Scikit-learn` • `OpenCV` • `Pandas` • `NumPy` • `Matplotlib`
 
-### Data / Cloud
-`MySQL` `PostgreSQL` `MongoDB`  
-`AWS` `Docker`
+### Web / Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mysql,mongodb" />
+</p>
 
-### Tools
-`Git` `GitHub` `VS Code` `Streamlit`  
-`MQTT` `CI/CD` `WordPress` `Tailwind CSS`
+`REST APIs` • `Vue.js` • `CodeIgniter`
+
+### Cloud / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+</p>
+
+`Streamlit` • `MQTT` • `CI/CD` • `WordPress` • `Tailwind CSS` • `PowerShell`
 
 ---
 
-## 🧪 Research & Engineering Experience
+## 💼 Experience Highlights
 
-### Graduate Research Assistant & Software Engineer Intern 
+### Graduate Research Assistant & Software Engineer Intern  
 **George Washington University**
 
-- Built real-time ML system processing **200,000+ sensor readings**
+- Built a real-time ML system processing **200,000+ sensor readings**
 - Reduced false positives by **17%**
-- Optimized ML inference by **45% on edge devices**
-- Designed ML labs for undergraduate systems engineering course
-- Built academic research platforms (digital humanities)
+- Improved edge-device inference efficiency by **45%**
+- Designed ML-focused labs for undergraduate systems engineering coursework
+- Built and maintained academic research platforms in digital humanities
 
 ---
 
 ### Full-Stack Software Engineer  
 **Stealth Startups (Fintech & Healthtech)**
 
-- Designed backend systems for **10,000+ users**
+- Designed backend systems supporting **10,000+ users**
 - Improved database performance by **40%**
 - Built REST APIs and production frontends
-- Led system architecture across multiple startups
+- Contributed to system architecture across multiple startup products
 
 ---
 
-### Programmer analyst 
+### Programmer Analyst  
 **Cognizant Technology Solutions**
 
 - Deployed **100+ enterprise applications**
-- Automated provisioning pipelines
+- Automated provisioning pipelines for improved efficiency
 - Managed SQL systems with **10,000+ records**
 
 ---
 
 ## 📈 Engineering Philosophy
 
-I believe great systems should be:
+I believe strong systems should be:
 
-- **Correct** (robust, tested, reliable)
-- **Scalable** (designed for growth)
-- **Interpretable** (humans understand decisions)
-- **Production-ready** (not just academic demos)
+<div align="center">
 
-I enjoy working on problems where:
-> software meets data meets real-world impact.
+| Correct | Scalable | Interpretable | Production-Ready |
+|---------|----------|---------------|------------------|
+| Robust and reliable | Designed for growth | Easy for humans to understand | Built beyond demos |
+
+</div>
+
+I enjoy solving problems where:
+
+> **software meets data meets real-world impact**
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Real-time ML systems
-- LLM-based applications
-- Streaming architectures
-- Cloud-native ML pipelines
-- Model interpretability & trust
+- Real-time ML systems  
+- LLM-based applications  
+- Streaming architectures  
+- Cloud-native ML pipelines  
+- Model interpretability and trust  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Open To Opportunities
 
-I’m open to opportunities in:
+I’m actively interested in roles such as:
 
-- Software Engineering
-- Data Engineering
-- Machine Learning Engineering
-- Applied AI / Research Engineering
+- **Software Engineering**
+- **Data Engineering**
+- **Machine Learning Engineering**
+- **Applied AI / Research Engineering**
 
-📧 ankitavilas.pimpalkar@gwu.edu  
-🔗 LinkedIn: https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/
+<p>
+  <a href="mailto:ankitavilas.pimpalkar@gwu.edu">
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-**“Building intelligent systems that actually work in the real world.”**
+### **“Building intelligent systems that actually work in the real world.”**
 
 </div>
