@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <a href="mailto:ankitavilas.pimpalkar@gwu.edu">
+  <a href="mailto:apimpalkar707@gmail.com">
     <img src="https://img.shields.io/badge/Email-ankitavilas.pimpalkar@gwu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/">
@@ -244,22 +244,7 @@ validation, processing, performance, reliability
 
 </div>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkitaPimpalkar08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaPimpalkar08&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AnkitaPimpalkar08&theme=tokyonight&hide_border=true&border_radius=14" />
-
-</div>
-
----
 
 ## Let’s Connect
 
@@ -267,7 +252,7 @@ validation, processing, performance, reliability
 
 I’m open to roles in **software engineering, machine learning, applied AI, and data-focused systems**.
 
-<a href="mailto:ankitavilas.pimpalkar@gwu.edu">
+<a href="mailto:apimpalkar707@gmail.com">
   <img src="https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/">
